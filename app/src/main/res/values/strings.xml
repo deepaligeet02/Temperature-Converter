@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string-array name="temperatures">
+        <item>
+           Celsius (°C)
+        </item>
+        <item>
+            Fahrenheit (°F)
+        </item>
+        <item>
+           Kelvin (°K)
+        </item>
+    </string-array>
+</resources>
